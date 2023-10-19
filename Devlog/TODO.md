@@ -13,6 +13,7 @@
 ---
 
 ## Medium priority
+* Get speech recognition working
 * Find a way to easily and securely mount the raspberry pi's camera
 * Find a way to easily power the pis & ESP32 with enough amperage (We need plenty of current because the reccommended amperage for one pi 4 is 3 amps. There are 3, so 9 amps will be required, not including the ESP32 and external devices)
 
