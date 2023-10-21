@@ -21,7 +21,7 @@
 ---
 
 ## Low priority
-* Get a 12v lead-acid battery, the proper charging, and the voltage regulators
+* Get a 12v lead-acid battery, the proper charging equipment, and the voltage regulators
 * Get a 5 port ethernet switch to enable communication with all devices. I'll most likely only be using 3-4 of those ports, but having one open port allows me to connect it to a router and gain direct access
 
 ---
