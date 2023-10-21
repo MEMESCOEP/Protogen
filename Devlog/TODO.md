@@ -9,6 +9,7 @@
 * Get some sort of fast & realistic chatbot running (llama is currently taking 11+ hours to generate simple responses 💀)
 * Use an ESP32 to monitor temperatures, control fan speed via PWM, and do temperature safety checks and actions
 * Configure static IP addresses for the ESP32 and the pis
+* Improve OpenCV object detection performance
 
 ---
 
