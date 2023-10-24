@@ -25,7 +25,7 @@
   <summary>10-24-23</summary>
   [*] I'm working on switching the computer vision processor to a jetson nano (from an rpi 4) because it has CUDA (GPU) accelaration. I'm hvaing trouble updating the OS (Ubuntu 18.04) and the packages. Python 3.6 is too old, and I need the best security I can get. The current issue with "sudo apt-get update" and "sudo apt-get upgrade" is that it doesn't want to connect to some package servers, and then dies. 
   <br/><br/>
-  I've found some instructions on my robotics team's (RoboLions) github that explains how to install Discombobulated88's Xubuntu image (https://github.com/Discombobulated88/Xubuntu-20.04-L4T-32.3.1/releases/download/v1.0/Xubuntu-20.04-l4t-r32.3.1.tar.tbz2), and how to uprade to 22.04. Hopefully everything works fine.
+  I've found some instructions on my robotics team's (RoboLions) github that explains how to install Discombobulated88's Xubuntu image (https://github.com/Discombobulated88/Xubuntu-20.04-L4T-32.3.1/releases/download/v1.0/Xubuntu-20.04-l4t-r32.3.1.tar.tbz2), and how to uprade to 22.04. Hopefully everything works fine. I'm also thinking about armbian 23.8 (https://www.armbian.com/jetson-nano/).
   <br/><br/>
   [*] Removed the imutils requirement, as OpenCV already has a built-in function to resize frames
 </details>
