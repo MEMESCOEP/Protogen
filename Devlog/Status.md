@@ -13,7 +13,7 @@
 
 ## Current software
 * Raspberry Pi OS (Must be the 64 bit bookworm release, SSH is currently enabled)
-* Xubuntu 22.04 (For the jetson)
+* Xubuntu 22.04 / Armbian 23.8 (For the jetson)
 * Python 3.10.x - 3.11.2
   <details>
    <summary>
