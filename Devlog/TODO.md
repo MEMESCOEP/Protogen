@@ -2,6 +2,7 @@
 ## NEEDS TO HAPPEN IMMEDIATELY
 * Implement proper safety and failure checks & routines
 * Ensure stability
+* Install & configure Jetson Nano devkit software
 
 ---
 
