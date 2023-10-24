@@ -1,18 +1,20 @@
 # Status
 ## Current hardware
-* 3 Raspberry pi 4's (can be pi 5s or later):
+* 2 Raspberry pi 4's (can be upgraded):
   * One 8G RAM model for the chatbot
-  * One 8G RAM model for computer vision
   * One 4G RAM model for the central & display servers
+
+* NVidia Jetson Nano Devkit (for computer vision)
   
 * Raspberry pi camera v2
 * Wired networking via ethernet
 * An ESP32
-* Active cooling for the pis and ESP32
+* Active cooling for the pis, jetson, and ESP32
 
 ## Current software
 * Raspberry Pi OS (Must be the 64 bit bookworm release, SSH is currently enabled)
-* Python 3.11.2
+* Xubuntu 22.04 (For the jetson)
+* Python 3.10.x - 3.11.2
   <details>
    <summary>
     Image processing
@@ -24,7 +26,6 @@
     <li>threading</li>
     <li>keyboard</li>
     <li>logging</li>
-    <li>imutils</li>
     <li>socket</li>
     <li>time</li>
     <li>cv2 (OpenCV)</li>
