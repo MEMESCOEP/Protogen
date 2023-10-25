@@ -4,7 +4,7 @@
   * One 8G RAM model for the chatbot
   * One 4G RAM model for the central & display servers
 
-* NVidia Jetson Nano Devkit (for computer vision)
+* NVidia Jetson Nano Devkit (for computer vision, requires a 64gb or larger MicroSD card)
   
 * Raspberry pi camera v2
 * Wired networking via ethernet
@@ -13,7 +13,7 @@
 
 ## Current software
 * Raspberry Pi OS (Must be the 64 bit bookworm release, SSH is currently enabled)
-* Xubuntu 22.04 / Armbian 23.8 (For the jetson)
+* Ubuntu 20.04 (For the jetson, https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image)
 * Python 3.10.x - 3.11.2
   <details>
    <summary>
