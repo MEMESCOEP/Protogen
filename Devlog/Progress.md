@@ -29,3 +29,10 @@
   <br/><br/>
   [*] Removed the imutils requirement, as OpenCV already has a built-in function to resize frames
 </details>
+
+<details>
+  <summary>10-25-23</summary>
+  [*] I'm still working on switching the computer vision processor to a jetson nano (from an rpi 4) because it has CUDA (GPU) accelaration. I found an Ubuntu 20.04 image (https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image), and I'm having far fewer issues now. I'll still need to upgrade packages, as Python 3.8 is a bit too old.
+  <br/><br/>
+  The instructions on my robotics team's (RoboLions) github didn't work, but only because Discombobulated88's Xubuntu image (https://github.com/Discombobulated88/Xubuntu-20.04-L4T-32.3.1/releases/download/v1.0/Xubuntu-20.04-l4t-r32.3.1.tar.tbz2) booted but froze on the NVidia splash screen. Armbian disabled HDMI output completely, but SSH worked. I chose to go to Ubuntu 20.04 because I need a desktop env for OpenCV's imshow function.
+</details>
