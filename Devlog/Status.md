@@ -13,8 +13,8 @@
 
 ## Current software
 * Raspberry Pi OS (Must be the 64 bit bookworm release, SSH is currently enabled)
-* Ubuntu 20.04 (For the jetson, https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image)
-* Python 3.10.x - 3.11.2
+* Ubuntu 18.04 (For the jetson, SSH is enabled by default)
+* Python 3.6.x - 3.11.x
   <details>
    <summary>
     Image processing
