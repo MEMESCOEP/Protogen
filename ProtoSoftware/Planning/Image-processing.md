@@ -3,7 +3,7 @@ This file outlines my plan for what the image processing code should do, and how
 
 ---
 ## What it does
-This script is written in Python and targets version 3.11.2.
+This script is written in Python and targets version 3.6 (This is the version that comes pre-installed on the Jetson).
 <br/>
 The image processing script will do the following (in order):
 * On bootup, attempt to connect to the central server. (If the connection is unsuccessful, print an error and trigger the error screen)
