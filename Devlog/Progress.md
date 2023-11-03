@@ -1,5 +1,10 @@
 # Progress
 <details>
+  <summary>11-3-23</summary>
+  I've been researching ways to control a PWM fan from an ESP32. I've also make a prototype PCB for powering 4 PC fans from a 12v source, via XT60.
+</details>
+  
+<details>
   <summary>10-27-23</summary>
   I've finished changing the computer vision processor to run on a jetson nano, and this resulted in a massive performance increase from 5 fps to ~22. The ubuntu 20.04 image I found ended up having some issues of it's own, so I decided to switch back to the official 18.04 image.
   <br/><br/>
