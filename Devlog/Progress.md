@@ -1,7 +1,7 @@
 # Progress
 <details>
   <summary>11-3-23</summary>
-  I've been researching ways to control a PWM fan from an ESP32. I've also make a prototype PCB for powering 4 PC fans from a 12v source, via XT60.
+  I've been researching ways to control a PWM fan from an ESP32. I've also make a prototype PCB for powering 4 PC fans from a 12v source, via XT60. This PCB doesn't yet expose any PWM or tachometer pins yet, that will be added later today.
 </details>
   
 <details>
